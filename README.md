@@ -7,7 +7,7 @@
 1. Clone the repository into your "new-project" directory
 
    ```bash
-   https://github.com/zakkabakka/jsExos.git new-project && cd new-project
+   https://github.com/zakkabakka/jsExos.git js-Exos && cd js-Exos
    ```
 
 2. Remove the git repository, and then initialise a new one
